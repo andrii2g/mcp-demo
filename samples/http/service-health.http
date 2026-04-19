@@ -1,0 +1,2 @@
+GET http://localhost:5048/health
+Accept: application/json

@@ -1,0 +1,3 @@
+you> What is the weather in Lviv?
+
+assistant> Current weather for Lviv, Lviv Oblast, Ukraine: 12.4°C, wind 8.1 km/h, Overcast, observed at 2026-04-19T08:00:00.0000000+00:00.

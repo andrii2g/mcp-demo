@@ -1,0 +1,3 @@
+you> What is the weather in Berlin, Germany right now?
+
+assistant> Current weather for Berlin, Berlin, Germany: 14.2°C, wind 11.0 km/h, Partly cloudy, observed at 2026-04-19T08:00:00.0000000+00:00.
