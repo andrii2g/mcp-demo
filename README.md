@@ -115,7 +115,7 @@ Do not use `http://localhost:5048/mcp` for `Mcp:ServerUrl` with the Responses AP
 ## Test
 
 ```powershell
-dotnet test mcp-weather-demo.sln
+dotnet test mcp-weather-demo.slnx
 ```
 
 ## Notes

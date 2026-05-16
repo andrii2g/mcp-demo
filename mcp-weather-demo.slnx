@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/McpWeatherChatCli/McpWeatherChatCli.csproj" />
+    <Project Path="src/McpWeatherService/McpWeatherService.csproj" />
+    <Project Path="src/Shared/Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/McpWeatherChatCli.Tests/McpWeatherChatCli.Tests.csproj" />
+    <Project Path="tests/McpWeatherService.Tests/McpWeatherService.Tests.csproj" />
+  </Folder>
+</Solution>
